@@ -4,11 +4,13 @@
 
 ![image](https://user-images.githubusercontent.com/4342684/132954549-9ecd32cc-4c4c-49ce-88e3-045dc9d6f23b.png)
 
-A Hilbert curve is a fractal pattern that approximates a plane, or fills a space.
+A Hilbert curve is a fractal pattern that approximates a plane, or [fills a space](https://en.wikipedia.org/wiki/Space-filling_curve).
 
 ## Hilbert Coffee Table
 
-This all started because I wanted to make my own coffee table.  My plan was to use small ceramic tiles as the top, and to create a pattern of my own design.  I wrote a simple little script to generate a mirrored Hilbert curve in tiles, which I could customize for different colors of tiles and grout.
+This all started because I wanted to make my own coffee table.  My plan was to use small ceramic tiles as the top surface, and to create a pattern of my own design.  I wrote a simple little script to generate a mirrored Hilbert curve in tiles, which I could customize for different tile colors and grout color.
+
+I experimented with different levels of fractal depth, as seen below.
 
 ### n=1
 ![hilbert_1](https://user-images.githubusercontent.com/4342684/132954983-c3240838-2346-4526-a51a-fea774321633.png)
